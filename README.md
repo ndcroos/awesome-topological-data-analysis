@@ -1,5 +1,5 @@
 # awesome-topological-data-analysis
-A collection of awesome topological data analysis links, frameworks, libraries and software. Inspired by awesome projects line. This collection will also include items under the nome of computational algebraic topology, topological signal processing etc.
+A collection of awesome topological data analysis links, frameworks, libraries and software. Inspired by awesome projects line. This collection will also include items under the nome of computational algebraic topology, applied topology, topological signal processing etc.
 
 # Resources
 
