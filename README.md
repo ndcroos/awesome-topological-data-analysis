@@ -18,3 +18,8 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 ## Videos
 
 * [Applied Algebraic Topology Network YouTube channel](https://www.youtube.com/channel/UCYOcatH32zeOTnqjag0fNkw/featured)
+
+
+## Other lists
+
+* [Algebraic Topology and neuroscience: a bibliography](http://www.chadgiusti.com/bib.html)
