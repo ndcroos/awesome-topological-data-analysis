@@ -12,3 +12,4 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 ## Libraries
 
 * [PySheaf](https://github.com/kb1dds/pysheaf) Sheaf-theoretic toolbox
+* [Javaplex](https://github.com/appliedtopology/javaplex) Persistent Homology and Topological Data Analysis Library
