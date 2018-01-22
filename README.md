@@ -7,3 +7,4 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 
 * [Computational algebraic topology](http://www.drmichaelrobinson.net/math496spring2016.html)
 * [Topological data analysis](http://www-pequan.lip6.fr/~tierny/topologicalDataAnalysisClass.html)
+* [Computational Topology Utah](http://www.sci.utah.edu/~pascucci/classes/2013_spring/)
