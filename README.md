@@ -14,6 +14,7 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 * [PySheaf](https://github.com/kb1dds/pysheaf) Sheaf-theoretic toolbox
 * [Javaplex](https://github.com/appliedtopology/javaplex) Persistent Homology and Topological Data Analysis Library
 * [TTK](https://github.com/topology-tool-kit/ttk) Topological Data Analysis and Visualization 
+* [PyTDA](https://github.com/stephenhky/PyTDA)
 
 ## Videos
 
@@ -23,3 +24,4 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 ## Other lists
 
 * [Algebraic Topology and neuroscience: a bibliography](http://www.chadgiusti.com/bib.html)
+
