@@ -9,6 +9,7 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 * [Topological data analysis](http://www-pequan.lip6.fr/~tierny/topologicalDataAnalysisClass.html)
 * [Computational Topology Utah](http://www.sci.utah.edu/~pascucci/classes/2013_spring/)
 * [Computational Topology Utah](http://www.sci.utah.edu/~beiwang/teaching/cs6170-spring-2017.html)
+* [Notes du cours de Topologie Algorithmique](http://www.gipsa-lab.fr/~francis.lazarus/Enseignement/geoAlgo.html)
 
 ## Libraries
 
