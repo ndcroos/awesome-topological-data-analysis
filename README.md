@@ -29,4 +29,3 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 
 ## Introductory readings
 
-
