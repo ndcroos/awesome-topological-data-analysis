@@ -28,3 +28,4 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 * [Algebraic Topology and neuroscience: a bibliography](http://www.chadgiusti.com/bib.html)
 
 ## Introductory readings
+
