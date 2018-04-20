@@ -26,6 +26,7 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 ## Other lists
 
 * [Algebraic Topology and neuroscience: a bibliography](http://www.chadgiusti.com/bib.html)
+* [List of resources for TDA](https://gist.github.com/calstad/01e174faff2cdca7faf9)
 
 ## Introductory readings
 
