@@ -34,5 +34,13 @@ A collection of awesome topological data analysis links, papers, frameworks, lib
 
 ## Efficient algorithms (parallel etc.)
 
+## Datasets
+
+### Neuroscience
+
+* [Hippocampus data set](http://crcns.org/data-sets/hc)
+
 ## Introductory readings
+
+
 
