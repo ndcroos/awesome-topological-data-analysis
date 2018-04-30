@@ -1,5 +1,5 @@
 # awesome-topological-data-analysis
-A collection of awesome topological data analysis links, frameworks, libraries and software. Inspired by awesome projects line. I started this collection because I wanted to have an overview of this field. This collection will also include items under the heading of computational algebraic topology, applied topology, topological signal processing etc. Feel free to send in pull-requests.
+A collection of awesome topological data analysis links, frameworks, libraries and software. Inspired by awesome projects line. I started this collection because I wanted to have an overview of this field and kep track of anything I find interesting. This collection will also include items under the heading of computational algebraic topology, applied topology, topological signal processing etc. Feel free to send in pull-requests.
 
 # Resources
 
@@ -12,7 +12,7 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 * [Notes du cours de Topologie Algorithmique](http://www.gipsa-lab.fr/~francis.lazarus/Enseignement/geoAlgo.html)
 * [Category practice and theory](https://www-m10.ma.tum.de/bin/view/Lehre/SS18/CatTheorySem18/WebHome)
 
-## Libraries
+## Libraries, frameworks, tools
 
 * [PySheaf](https://github.com/kb1dds/pysheaf) Sheaf-theoretic toolbox
 * [Javaplex](https://github.com/appliedtopology/javaplex) Persistent Homology and Topological Data Analysis Library
@@ -31,6 +31,8 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 
 * [Algebraic Topology and neuroscience: a bibliography](http://www.chadgiusti.com/bib.html)
 * [List of resources for TDA](https://gist.github.com/calstad/01e174faff2cdca7faf9)
+
+## Efficient algorithms (parallel etc.)
 
 ## Introductory readings
 
