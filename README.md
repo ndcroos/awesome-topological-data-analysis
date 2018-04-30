@@ -1,5 +1,5 @@
 # awesome-topological-data-analysis
-A collection of awesome topological data analysis links, frameworks, libraries and software. Inspired by awesome projects line. This collection will also include items under the heading of computational algebraic topology, applied topology, topological signal processing etc. Feel free to send in pull-requests.
+A collection of awesome topological data analysis links, frameworks, libraries and software. Inspired by awesome projects line. I started this collection because I wanted to have an overview of this field. This collection will also include items under the heading of computational algebraic topology, applied topology, topological signal processing etc. Feel free to send in pull-requests.
 
 # Resources
 
@@ -10,6 +10,7 @@ A collection of awesome topological data analysis links, frameworks, libraries a
 * [Computational Topology Utah](http://www.sci.utah.edu/~pascucci/classes/2013_spring/)
 * [Computational Topology Utah](http://www.sci.utah.edu/~beiwang/teaching/cs6170-spring-2017.html)
 * [Notes du cours de Topologie Algorithmique](http://www.gipsa-lab.fr/~francis.lazarus/Enseignement/geoAlgo.html)
+* [Category practice and theory](https://www-m10.ma.tum.de/bin/view/Lehre/SS18/CatTheorySem18/WebHome)
 
 ## Libraries
 
