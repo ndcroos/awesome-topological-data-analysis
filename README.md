@@ -3,6 +3,7 @@ A collection of awesome topological data analysis links, papers, frameworks, lib
 
 # Resources
 
+
 ## Courses
 
 * [Computational algebraic topology](http://www.drmichaelrobinson.net/math496spring2016.html)
