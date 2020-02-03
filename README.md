@@ -12,7 +12,7 @@ A collection of awesome topological data analysis links, papers, frameworks, lib
 * [Computational Topology Utah](http://www.sci.utah.edu/~beiwang/teaching/cs6170-spring-2017.html)
 * [Notes du cours de Topologie Algorithmique](http://www.gipsa-lab.fr/~francis.lazarus/Enseignement/geoAlgo.html)
 * [Category practice and theory](https://www-m10.ma.tum.de/bin/view/Lehre/SS18/CatTheorySem18/WebHome)
-* [Computational Algebraic Topology - Oxford couse](http://people.maths.ox.ac.uk/nanda/cat/)
+* [Computational Algebraic Topology - course at the University of Oxford](http://people.maths.ox.ac.uk/nanda/cat/)
 
 ## Libraries, frameworks, tools
 
