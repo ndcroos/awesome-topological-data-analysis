@@ -21,6 +21,10 @@ A collection of awesome topological data analysis links, papers, frameworks, lib
 * [TTK](https://github.com/topology-tool-kit/ttk) Topological Data Analysis and Visualization 
 * [PyTDA](https://github.com/stephenhky/PyTDA)
 
+## Books
+
+* [tdlbook](https://tdlbook.org/) Topological Deep Learning: Going Beyond Graph Data
+
 ## Videos
 
 * [Applied Algebraic Topology Network YouTube channel](https://www.youtube.com/channel/UCYOcatH32zeOTnqjag0fNkw/featured)
