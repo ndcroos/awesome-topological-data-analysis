@@ -20,6 +20,7 @@ A collection of awesome topological data analysis links, papers, frameworks, lib
 * [Javaplex](https://github.com/appliedtopology/javaplex) Persistent Homology and Topological Data Analysis Library
 * [TTK](https://github.com/topology-tool-kit/ttk) Topological Data Analysis and Visualization 
 * [PyTDA](https://github.com/stephenhky/PyTDA)
+* [TopoDrift](https://github.com/FranzuBaren/topodrift) Open benchmark for topological drift detection: evaluates persistent homology against KS/MMD/PSI on 7 regime types invisible to classical statistics.
 
 ## Books
 
